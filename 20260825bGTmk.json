@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "人形机器人举重怎么判",
+    "author": "劢侣迅",
+    "time": "2026年08月25日04时12分30秒",
+    "version": "2.0"
+  },
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListOrder": "https://schema.org/ItemListOrderUnordered",
+  "name": "开个新坑，从头开始完整拆解 Spring AI 2.0 的源码",
+  "description": "龙芯胡伟武：3B6600 用 1Xnm 工艺追平 AMD 英特尔 7nm 性能",
+  "about": {
+    "@type": "Thing",
+    "name": "www.blog.oyrvj.cn"
+  },
+  "mainEntity": {
+    "@type": "WebPage",
+    "name": "为什么呀？老登股都跌那么惨？",
+    "description": "内容页的详细描述，可包含www.blog.oyrvj.cn的相关信息。",
+    "author": {
+      "@type": "Person",
+      "name": "莘峊嵜"
+    },
+    "datePublished": "2026年08月25日04时12分30秒",
+    "dateModified": "2026年08月25日04时12分30秒",
+    "inLanguage": "zh-CN",
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "为了直播涨粉 打造“猛男”人设，男子徒手偷走村口150斤石墩！民警依法处以行政罚款 800 元",
+      "url": "www.blog.oyrvj.cn/Article/details/656400.sHtML"
+    }
+  },
+  "share_links": [
+    {
+      "platform": "博格巴巅峰身价1亿如今剩250万",
+      "share_url": "www.blog.oyrvj.cn/Article/details/514207.sHtML"
+    },
+{
+      "platform": "1994年、量子化学家莱纳斯·卡尔·鲍林逝世",
+      "share_url": "www.blog.oyrvj.cn/Article/details/093917.sHtML"
+    },
+{
+      "platform": "时间戳随机修改工具",
+      "share_url": "www.blog.oyrvj.cn/Article/details/418073.sHtML"
+    },
+{
+      "platform": "曼城发布瓜迪奥拉执教纪录片",
+      "share_url": "www.blog.oyrvj.cn/Article/details/971325.sHtML"
+    },
+{
+      "platform": "你能接受视频“暂停广告”吗？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/685143.sHtML"
+    },
+{
+      "platform": "闭门、举牌、真话，这场路演有点不一样",
+      "share_url": "www.blog.oyrvj.cn/Article/details/510616.sHtML"
+    },
+{
+      "platform": "50＋女人到底该不该“塞衣角”？看完这3组对比图，你就知道答案",
+      "share_url": "www.blog.oyrvj.cn/Article/details/950315.sHtML"
+    },
+{
+      "platform": "房主遇暴力强拆反击致一死被判无罪 律师：系全国首例",
+      "share_url": "www.blog.oyrvj.cn/Article/details/286626.sHtML"
+    },
+{
+      "platform": "爆火 Vue3 手势库：轻松实现手势功能，兼容PC端、移动端",
+      "share_url": "www.blog.oyrvj.cn/Article/details/370736.sHtML"
+    },
+    {
+      "platform": "饰品分享 | 最近的种草&常逛平价店铺",
+      "share_url": "www.blog.oyrvj.cn/Article/details/299842.sHtML"
+    },
+{
+      "platform": "关于鸿蒙手机的日常体验，网上那些“劝退帖”到底还站不站得住脚？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/456711.sHtML"
+    },
+{
+      "platform": "海军中将赵晓哲院士被工程院“除名”",
+      "share_url": "www.blog.oyrvj.cn/Article/details/050366.sHtML"
+    },
+{
+      "platform": "Claude Code 权限弹窗太烦？官方终于动手了。。。",
+      "share_url": "www.blog.oyrvj.cn/Article/details/767739.sHtML"
+    },
+{
+      "platform": "药代违规进入诊疗区域，四家药企产品被湘雅二医院暂停使用3个月",
+      "share_url": "www.blog.oyrvj.cn/Article/details/074270.sHtML"
+    },
+{
+      "platform": "突发，Fable 5.1泄露了！Claude又叒叕全球大宕机",
+      "share_url": "www.blog.oyrvj.cn/Article/details/021372.sHtML"
+    },
+{
+      "platform": "“男孩女孩我都喜欢”，但事实上，新生男孩越来越多",
+      "share_url": "www.blog.oyrvj.cn/Article/details/446604.sHtML"
+    },
+{
+      "platform": "杭州梭子蟹价格持续回落",
+      "share_url": "www.blog.oyrvj.cn/Article/details/584408.sHtML"
+    },
+{
+      "platform": "杭州男子下班路上“多看一眼”，感觉事情必有蹊跷……3人落网",
+      "share_url": "www.blog.oyrvj.cn/Article/details/215749.sHtML"
+    },
+{
+      "platform": "美军太平洋基地设施衰败状态堪忧",
+      "share_url": "www.blog.oyrvj.cn/Article/details/911488.sHtML"
+    },
+    {
+      "platform": "Project Trust 不是 Sandbox：Pi Agent 的安全边界怎样补齐",
+      "share_url": "www.blog.oyrvj.cn/Article/details/274420.sHtML"
+    },
+{
+      "platform": "应休尽休！河南带薪休假新政来了！鼓励试行“周五半天+周末+年假”短途度假模式",
+      "share_url": "www.blog.oyrvj.cn/Article/details/490363.sHtML"
+    },
+{
+      "platform": "微信视频号下载助手 wx_channel V5.7.1",
+      "share_url": "www.blog.oyrvj.cn/Article/details/366641.sHtML"
+    },
+{
+      "platform": "女子坐高铁遇咸猪手果断报警",
+      "share_url": "www.blog.oyrvj.cn/Article/details/367907.sHtML"
+    },
+{
+      "platform": "一款抗癌疫苗引爆美股医药股",
+      "share_url": "www.blog.oyrvj.cn/Article/details/353636.sHtML"
+    },
+{
+      "platform": "伊朗举行哈梅内伊下葬四十日纪念仪式 穆杰塔巴未现身",
+      "share_url": "www.blog.oyrvj.cn/Article/details/985832.sHtML"
+    },
+{
+      "platform": "处长单位门口遭枪击高位截瘫7年后去世 案件25年未破",
+      "share_url": "www.blog.oyrvj.cn/Article/details/744583.sHtML"
+    },
+{
+      "platform": "一边练逃跑一边练斩首，收台信号愈发清晰，统一进程正在加速",
+      "share_url": "www.blog.oyrvj.cn/Article/details/846656.sHtML"
+    },
+{
+      "platform": "“AI剧像喂猪一样 实在吃不下了”",
+      "share_url": "www.blog.oyrvj.cn/Article/details/411110.sHtML"
+    },
+{
+      "platform": "吃着不甜，却能让血糖飙升的8种食物！还是公认健康粗粮！",
+      "share_url": "www.blog.oyrvj.cn/Article/details/752729.sHtML"
+    },
+    {
+      "platform": "马上评｜合力铲除滋生假名人的社会土壤",
+      "share_url": "www.blog.oyrvj.cn/Article/details/888060.sHtML"
+    },
+{
+      "platform": "我是周星驰影迷，看到很多人说沈腾已经超越了周星驰，这个观点我并不反对。江山代有才人出，各领风骚数百年，没有人能够永远是第一，周星驰有过自己的光辉岁月这就够了。而且中国的电影历史不太可能绕开他不谈的。",
+      "share_url": "www.blog.oyrvj.cn/Article/details/865011.sHtML"
+    },
+{
+      "platform": "企业微信AI大跃进：机器人权限不管公司多大，这次彻底放开了",
+      "share_url": "www.blog.oyrvj.cn/Article/details/534846.sHtML"
+    },
+{
+      "platform": "罗马诺：皇马接近签下19岁中场塞尔吉奥-马丁内斯",
+      "share_url": "www.blog.oyrvj.cn/Article/details/515211.sHtML"
+    },
+{
+      "platform": "家长被索要清洁费未果遭尾随",
+      "share_url": "www.blog.oyrvj.cn/Article/details/002186.sHtML"
+    },
+{
+      "platform": "小猫一脚干碎主人七八千元玉镯",
+      "share_url": "www.blog.oyrvj.cn/Article/details/411864.sHtML"
+    },
+{
+      "platform": "毛宁分享“中国火箭陆地回收”",
+      "share_url": "www.blog.oyrvj.cn/Article/details/435326.sHtML"
+    },
+{
+      "platform": "南斯拉夫被肢解的太惨了吧？这是切块再剁碎啊",
+      "share_url": "www.blog.oyrvj.cn/Article/details/603799.sHtML"
+    },
+{
+      "platform": "湾区超美风景线，一起感受至美南沙",
+      "share_url": "www.blog.oyrvj.cn/Article/details/406960.sHtML"
+    },
+{
+      "platform": "衣服破了你还缝？滴点小药水，它自己能长回来",
+      "share_url": "www.blog.oyrvj.cn/Article/details/225128.sHtML"
+    },
+    {
+      "platform": "男子反抗暴力强拆致死被判无罪",
+      "share_url": "www.blog.oyrvj.cn/Article/details/932829.sHtML"
+    },
+{
+      "platform": "一点一滴刺痛我的心",
+      "share_url": "www.blog.oyrvj.cn/Article/details/744613.sHtML"
+    },
+{
+      "platform": "上海书展 | 当71岁的莫言蹲下和轮椅上的读者合影，文学的美好发生在每一个具体的人身上",
+      "share_url": "www.blog.oyrvj.cn/Article/details/274376.sHtML"
+    },
+{
+      "platform": "网红猪油渣别当零食吃",
+      "share_url": "www.blog.oyrvj.cn/Article/details/214419.sHtML"
+    },
+{
+      "platform": "像一阵细雨洒落我心底",
+      "share_url": "www.blog.oyrvj.cn/Article/details/671814.sHtML"
+    },
+{
+      "platform": "公共泳池内男子在儿童区搓脚",
+      "share_url": "www.blog.oyrvj.cn/Article/details/538601.sHtML"
+    },
+{
+      "platform": "让 Coding Agent 开始「记住过去」：MemoraX Code 的长期记忆系统",
+      "share_url": "www.blog.oyrvj.cn/Article/details/758491.sHtML"
+    },
+{
+      "platform": "王者新英雄王维玩法爆料",
+      "share_url": "www.blog.oyrvj.cn/Article/details/368240.sHtML"
+    },
+{
+      "platform": "DeepSeek Harness 开源，下一代 Agent 基础设施长什么样？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/397934.sHtML"
+    },
+{
+      "platform": "如何评价起点中文网大量下榜万均 AI 作品的行为？这一举措对网文行业后续发展有何影响？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/644834.sHtML"
+    },
+    {
+      "platform": "盐不会变质，为什么还要写保质期？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/485164.sHtML"
+    },
+{
+      "platform": "中国妇女报评杭州酒局事件：整治畸形酒桌文化尚须久久为功",
+      "share_url": "www.blog.oyrvj.cn/Article/details/153249.sHtML"
+    },
+{
+      "platform": "女子突然“多”出个老公",
+      "share_url": "www.blog.oyrvj.cn/Article/details/732205.sHtML"
+    },
+{
+      "platform": "抽象的剧遇上了抽象的演员",
+      "share_url": "www.blog.oyrvj.cn/Article/details/141013.sHtML"
+    },
+{
+      "platform": "女孩下海遭海蜇蜇伤进ICU 母亲：5米外的救生员未施救",
+      "share_url": "www.blog.oyrvj.cn/Article/details/160337.sHtML"
+    },
+{
+      "platform": "1883年、法国著名时装设计师、香奈儿品牌创始人加布里埃·香奈儿出生",
+      "share_url": "www.blog.oyrvj.cn/Article/details/394574.sHtML"
+    },
+{
+      "platform": "男子因12字评论被错误拘留5天案后续",
+      "share_url": "www.blog.oyrvj.cn/Article/details/647923.sHtML"
+    },
+{
+      "platform": "山姆苹果干一包就是半个苹果",
+      "share_url": "www.blog.oyrvj.cn/Article/details/324075.sHtML"
+    },
+{
+      "platform": "大模型工程化实战（三）：LLM 灰度发布 + 自动熔断，1% 流量试错、指标劣化自动回滚",
+      "share_url": "www.blog.oyrvj.cn/Article/details/193565.sHtML"
+    },
+{
+      "platform": "女生墨尔本街头翻唱遇袁娅维加入",
+      "share_url": "www.blog.oyrvj.cn/Article/details/945270.sHtML"
+    },
+    {
+      "platform": "宇树目前888，下午怎么看兄弟们？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/914696.sHtML"
+    },
+{
+      "platform": "玉雕江湖里的“大师生意”",
+      "share_url": "www.blog.oyrvj.cn/Article/details/245183.sHtML"
+    },
+{
+      "platform": "IT早报 0819：雷军官宣小米新一代玄戒芯片将至；魏建军称长城 36 年来没造过速成车；多人因编造 AI 车祸假视频被罚；入职奖 8800 元，富士康备战 iPhone 18...",
+      "share_url": "www.blog.oyrvj.cn/Article/details/557649.sHtML"
+    },
+{
+      "platform": "1871年、美国飞机设计师奥维尔·莱特诞生",
+      "share_url": "www.blog.oyrvj.cn/Article/details/091492.sHtML"
+    },
+{
+      "platform": "日网友：上空也封锁了，这样就进不来了。",
+      "share_url": "www.blog.oyrvj.cn/Article/details/555748.sHtML"
+    },
+{
+      "platform": "多省份调整最低工资标准，不少人工资却不升反降，网友：国有国法，厂有厂规",
+      "share_url": "www.blog.oyrvj.cn/Article/details/644252.sHtML"
+    },
+{
+      "platform": "买票占座放零食这座位能让吗",
+      "share_url": "www.blog.oyrvj.cn/Article/details/003854.sHtML"
+    },
+{
+      "platform": "高级前端开发职业规划（2026—2035）",
+      "share_url": "www.blog.oyrvj.cn/Article/details/152705.sHtML"
+    },
+{
+      "platform": "直接就是养乐多啊，这么直接的吗？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/077801.sHtML"
+    },
+{
+      "platform": "秦志高妻子大闹别人家婚礼",
+      "share_url": "www.blog.oyrvj.cn/Article/details/671412.sHtML"
+    },
+    {
+      "platform": "江苏泰州音乐家协会：撤销现有全部顾问等名誉职务",
+      "share_url": "www.blog.oyrvj.cn/Article/details/513843.sHtML"
+    },
+{
+      "platform": "有人让农民工也要交税",
+      "share_url": "www.blog.oyrvj.cn/Article/details/121810.sHtML"
+    },
+{
+      "platform": "博主：A股市场不应该跟着外围市场走",
+      "share_url": "www.blog.oyrvj.cn/Article/details/470421.sHtML"
+    },
+{
+      "platform": "反制美国！中方公布5项措施",
+      "share_url": "www.blog.oyrvj.cn/Article/details/664423.sHtML"
+    },
+{
+      "platform": "纪念奥特曼 60 周年：全新特别短片《赛罗奥特曼 宇宙跃升》中字版上线，坂本浩一执导",
+      "share_url": "www.blog.oyrvj.cn/Article/details/065261.sHtML"
+    },
+{
+      "platform": "这家靠全景起步的公司，正在逐步让用户「忘掉相机」",
+      "share_url": "www.blog.oyrvj.cn/Article/details/896434.sHtML"
+    },
+{
+      "platform": "宇树科技王兴兴身家超千亿元，成 90 后新首富",
+      "share_url": "www.blog.oyrvj.cn/Article/details/506959.sHtML"
+    },
+{
+      "platform": "唐山多家企业被卡用地审批？记者调查",
+      "share_url": "www.blog.oyrvj.cn/Article/details/722395.sHtML"
+    },
+{
+      "platform": "PVZ恐怖版新潜伏者僵尸",
+      "share_url": "www.blog.oyrvj.cn/Article/details/459488.sHtML"
+    },
+{
+      "platform": "网站升级了，我却有点舍不得",
+      "share_url": "www.blog.oyrvj.cn/Article/details/678936.sHtML"
+    },
+    {
+      "platform": "惠英红为拍戏拼到买不了保险",
+      "share_url": "www.blog.oyrvj.cn/Article/details/509709.sHtML"
+    },
+{
+      "platform": "东北第一城等到重开一局",
+      "share_url": "www.blog.oyrvj.cn/Article/details/990869.sHtML"
+    },
+{
+      "platform": "我有我的七夕仪式感",
+      "share_url": "www.blog.oyrvj.cn/Article/details/411661.sHtML"
+    },
+{
+      "platform": "高管接私活赚千万被发现后全捐公司",
+      "share_url": "www.blog.oyrvj.cn/Article/details/991807.sHtML"
+    },
+{
+      "platform": "王兴兴谈离开大疆创办宇树：从小就热爱机器人，2016 年就已预判到技术发展方向和趋势",
+      "share_url": "www.blog.oyrvj.cn/Article/details/678543.sHtML"
+    },
+{
+      "platform": "今日辟谣｜“新疆喀什经济开发区零地价供地免租金”系谣言",
+      "share_url": "www.blog.oyrvj.cn/Article/details/045021.sHtML"
+    },
+{
+      "platform": "六个Agent组团Vibe Gaming：自己生成、试玩、修Bug",
+      "share_url": "www.blog.oyrvj.cn/Article/details/610718.sHtML"
+    },
+{
+      "platform": "复刻龙餐馆徐福烩饭",
+      "share_url": "www.blog.oyrvj.cn/Article/details/406369.sHtML"
+    },
+{
+      "platform": "在花大钱之前，先花一笔小钱验证你的决策",
+      "share_url": "www.blog.oyrvj.cn/Article/details/148679.sHtML"
+    },
+{
+      "platform": "以你目前的眼光，你会选女儿还是妈妈？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/281627.sHtML"
+    },
+    {
+      "platform": "多标签资源管理器 Clover V3.5.6 去广告绿色美化版 火绒不报毒",
+      "share_url": "www.blog.oyrvj.cn/Article/details/522839.sHtML"
+    },
+{
+      "platform": "弟弟称哥哥刚确诊癌症嫂子就提离婚",
+      "share_url": "www.blog.oyrvj.cn/Article/details/034730.sHtML"
+    },
+{
+      "platform": "香港朋友发的这是真的吗洗碗工赶上内地二线白领了",
+      "share_url": "www.blog.oyrvj.cn/Article/details/291788.sHtML"
+    },
+{
+      "platform": "老叟戏顽童之模仿棋",
+      "share_url": "www.blog.oyrvj.cn/Article/details/404552.sHtML"
+    },
+{
+      "platform": "面试官说"打开你的AI工具"——我才发现，他考的根本不是写代码",
+      "share_url": "www.blog.oyrvj.cn/Article/details/584092.sHtML"
+    },
+{
+      "platform": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/830489.sHtML"
+    },
+{
+      "platform": "名嘴：孙颖莎王曼昱可能在这个时间点退役！王楚钦或效仿马龙战至37岁",
+      "share_url": "www.blog.oyrvj.cn/Article/details/054294.sHtML"
+    },
+{
+      "platform": "高德地图车机版 V9.5.0正式版(含最新离线数据26年8月12日)",
+      "share_url": "www.blog.oyrvj.cn/Article/details/148476.sHtML"
+    },
+{
+      "platform": "女子隆胸术后一周查出怀孕五周，认为医院术前检查不到位要求退款，院方予以拒绝，如何从法律角度解读？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/468421.sHtML"
+    },
+{
+      "platform": "猪猪侠之英雄猪少年",
+      "share_url": "www.blog.oyrvj.cn/Article/details/646398.sHtML"
+    },
+    {
+      "platform": "宇树科技上市首日收涨 460%，盘中一度暴涨 629%，市值突破 4400 亿，如何评价其市场表现？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/417007.sHtML"
+    },
+{
+      "platform": "985大学，扎堆开在县城里",
+      "share_url": "www.blog.oyrvj.cn/Article/details/154072.sHtML"
+    },
+{
+      "platform": "北京时间今天14时35分，SpaceX火箭残骸将撞击月球，预计将形成有史以来最大规模的人造陨石坑",
+      "share_url": "www.blog.oyrvj.cn/Article/details/694583.sHtML"
+    },
+{
+      "platform": "如果明清时间对换，明朝能不能避免我国近代的屈辱？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/759949.sHtML"
+    },
+{
+      "platform": "朱镕基同志遗体在北京八宝山革命公墓火化，天安门广场等地下半旗志哀",
+      "share_url": "www.blog.oyrvj.cn/Article/details/195215.sHtML"
+    },
+{
+      "platform": "新一代智能手表颜智实力派，华为WATCH GT 7系列正式发布",
+      "share_url": "www.blog.oyrvj.cn/Article/details/580016.sHtML"
+    },
+{
+      "platform": "生产 CI/CD 可以完全交给 AI Agent 吗？我们用 30 天验证了一次",
+      "share_url": "www.blog.oyrvj.cn/Article/details/884789.sHtML"
+    },
+{
+      "platform": "【HarmonyOS 7 悬浮页签深度实战】02 从普通底栏到第一个悬浮页签",
+      "share_url": "www.blog.oyrvj.cn/Article/details/693291.sHtML"
+    },
+{
+      "platform": "蓝箭航天通过第二次大考",
+      "share_url": "www.blog.oyrvj.cn/Article/details/668615.sHtML"
+    },
+{
+      "platform": "造谣青岛大学旭日旗者被拘",
+      "share_url": "www.blog.oyrvj.cn/Article/details/350006.sHtML"
+    },
+    {
+      "platform": "如何看待山东聊城「父亲当街脚踹女儿，路人制止反被定罪」一案？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/871198.sHtML"
+    },
+{
+      "platform": "华为新款平板 AST 系列通过星闪联盟测试，消息称部分型号支持星闪音频",
+      "share_url": "www.blog.oyrvj.cn/Article/details/780713.sHtML"
+    },
+{
+      "platform": "为什么跳槽涨薪 30% 的时代彻底结束了？聊聊 2026 前端薪资的天花板",
+      "share_url": "www.blog.oyrvj.cn/Article/details/226916.sHtML"
+    },
+{
+      "platform": "大家会记住对象那些无心说出来的小事吗？JR们进来聊聊",
+      "share_url": "www.blog.oyrvj.cn/Article/details/557509.sHtML"
+    },
+{
+      "platform": "金山云：上半年营收 57.76 亿元，同比增长 33.7%",
+      "share_url": "www.blog.oyrvj.cn/Article/details/580394.sHtML"
+    },
+{
+      "platform": "奥特曼瘫坐叫停“GPT-6”训练！太强触发最高安全警报",
+      "share_url": "www.blog.oyrvj.cn/Article/details/741844.sHtML"
+    },
+{
+      "platform": "个人/公司远程设备难区分？ ToDesk团队版：场景自由切换，隐私安全有保障",
+      "share_url": "www.blog.oyrvj.cn/Article/details/725673.sHtML"
+    },
+{
+      "platform": "中国经济何以持续“向新向优向好”？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/024076.sHtML"
+    },
+{
+      "platform": "CUDA 到底是什么？理解 GPU 编程的核心抽象：Thread、Block、Warp 与 Memory Hierarchy",
+      "share_url": "www.blog.oyrvj.cn/Article/details/226225.sHtML"
+    },
+{
+      "platform": "特朗普提前布局，他不希望今年的访华之行，重现去年的最大遗憾",
+      "share_url": "www.blog.oyrvj.cn/Article/details/305069.sHtML"
+    },
+    {
+      "platform": "多国减持 美债抛售潮加剧",
+      "share_url": "www.blog.oyrvj.cn/Article/details/432820.sHtML"
+    },
+{
+      "platform": "阔腿裤+平底鞋：今年秋天最火搭配，松弛又好看！",
+      "share_url": "www.blog.oyrvj.cn/Article/details/968922.sHtML"
+    },
+{
+      "platform": "177/62kg 高个子苹果型大骨架淡人的夏季穿搭（佛系更新ing",
+      "share_url": "www.blog.oyrvj.cn/Article/details/268018.sHtML"
+    },
+{
+      "platform": "被马斯克点评赶超猎鹰9号的中国火箭，刚刚完成了一级火箭陆地垂直回收！",
+      "share_url": "www.blog.oyrvj.cn/Article/details/134063.sHtML"
+    },
+{
+      "platform": "图片抠图去背景工具v1.0",
+      "share_url": "www.blog.oyrvj.cn/Article/details/964378.sHtML"
+    },
+{
+      "platform": "歌手毕夏首谈丈夫张恒远离世",
+      "share_url": "www.blog.oyrvj.cn/Article/details/814799.sHtML"
+    },
+{
+      "platform": "为库里冲冠继续补强！美媒支招勇士签3人：押宝西蒙斯+抄底托马斯",
+      "share_url": "www.blog.oyrvj.cn/Article/details/194941.sHtML"
+    },
+{
+      "platform": "42岁男子玩漂流致骨折瘫痪",
+      "share_url": "www.blog.oyrvj.cn/Article/details/635353.sHtML"
+    },
+{
+      "platform": "媒体：天津还能重回巅峰吗",
+      "share_url": "www.blog.oyrvj.cn/Article/details/533996.sHtML"
+    },
+{
+      "platform": "烤肉店回应店内不雅标语",
+      "share_url": "www.blog.oyrvj.cn/Article/details/181584.sHtML"
+    },
+    {
+      "platform": "当地回应升学宴事故致5人死亡",
+      "share_url": "www.blog.oyrvj.cn/Article/details/979313.sHtML"
+    },
+{
+      "platform": "抖音通报色情低俗治理成果：有黑产团伙打造“单亲妈妈交友”人设导流，29 人被抓",
+      "share_url": "www.blog.oyrvj.cn/Article/details/739162.sHtML"
+    },
+{
+      "platform": "一网店在蛋糕上印“拉布布Labubu”形象 被泡泡玛特公司起诉",
+      "share_url": "www.blog.oyrvj.cn/Article/details/795467.sHtML"
+    },
+{
+      "platform": "LangChain 们的丧钟？DeepSeek 把 Agent 开发变成了拼乐高",
+      "share_url": "www.blog.oyrvj.cn/Article/details/882151.sHtML"
+    },
+{
+      "platform": "伊朗称未与美国进行直接对话",
+      "share_url": "www.blog.oyrvj.cn/Article/details/902194.sHtML"
+    },
+{
+      "platform": "0819复盘：七夕至少有股票赔着",
+      "share_url": "www.blog.oyrvj.cn/Article/details/111296.sHtML"
+    },
+{
+      "platform": "博主：乌军或用新招打击莫斯科",
+      "share_url": "www.blog.oyrvj.cn/Article/details/537442.sHtML"
+    },
+{
+      "platform": "一个禁止w7和w10/w11系统更新的小软件3.0正式版，屏蔽w11升级提醒。（已更新）",
+      "share_url": "www.blog.oyrvj.cn/Article/details/707651.sHtML"
+    },
+{
+      "platform": "公寓酒店月租万元走红，住客多为周边上班族",
+      "share_url": "www.blog.oyrvj.cn/Article/details/847934.sHtML"
+    },
+{
+      "platform": "新华社消息｜司法部发布关于欧盟外国补贴调查相关做法构成不当域外管辖的公告",
+      "share_url": "www.blog.oyrvj.cn/Article/details/500717.sHtML"
+    },
+    {
+      "platform": "日本人烈日下大排长龙买中国相机",
+      "share_url": "www.blog.oyrvj.cn/Article/details/572455.sHtML"
+    },
+{
+      "platform": "小镇“傻老头”，与全村孩子一“约”就是21年｜人间事儿",
+      "share_url": "www.blog.oyrvj.cn/Article/details/857257.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收，外媒反应来了",
+      "share_url": "www.blog.oyrvj.cn/Article/details/458217.sHtML"
+    },
+{
+      "platform": "流星雨撞上日全食！就在明晚，百年难遇的天象大戏来了",
+      "share_url": "www.blog.oyrvj.cn/Article/details/236295.sHtML"
+    },
+{
+      "platform": "穆西亚拉连场热身赛晕倒",
+      "share_url": "www.blog.oyrvj.cn/Article/details/310520.sHtML"
+    },
+{
+      "platform": "我奔跑的时候拿着手电筒向前射出一束光，那这束光的速度是不是相对地面超过了光速？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/459430.sHtML"
+    },
+{
+      "platform": "咖啡厅出片技巧之静物篇",
+      "share_url": "www.blog.oyrvj.cn/Article/details/852328.sHtML"
+    },
+{
+      "platform": "涉王星案17名嫌犯被公诉：诱骗多人出境 强迫女性卖淫",
+      "share_url": "www.blog.oyrvj.cn/Article/details/240334.sHtML"
+    },
+{
+      "platform": "用 WorkBuddy 一键解读统计公报：从图片到 Word 报告与 HTML 看板（湖南省人口数据实战）",
+      "share_url": "www.blog.oyrvj.cn/Article/details/844672.sHtML"
+    },
+{
+      "platform": "全新深蓝S05上市11.59万元起，全球时尚激光智能SUV全面进阶",
+      "share_url": "www.blog.oyrvj.cn/Article/details/658842.sHtML"
+    },
+    {
+      "platform": "美股三大指数高开 SK海力士涨近5%",
+      "share_url": "www.blog.oyrvj.cn/Article/details/076122.sHtML"
+    },
+{
+      "platform": "王力宏：演出前一晚机器人出现 Bug，宇树团队通宵写代码解决",
+      "share_url": "www.blog.oyrvj.cn/Article/details/097742.sHtML"
+    },
+{
+      "platform": "泽连斯基，遭遇大麻烦",
+      "share_url": "www.blog.oyrvj.cn/Article/details/121945.sHtML"
+    },
+{
+      "platform": "净利最高暴增 977%，老牌教培释放回暖信号",
+      "share_url": "www.blog.oyrvj.cn/Article/details/806364.sHtML"
+    },
+{
+      "platform": "个股问题直接丢过来，我来跟大家聊一聊！！！",
+      "share_url": "www.blog.oyrvj.cn/Article/details/420546.sHtML"
+    },
+{
+      "platform": "七夕怎么可能和谁过都一样",
+      "share_url": "www.blog.oyrvj.cn/Article/details/782069.sHtML"
+    },
+{
+      "platform": "中方回应马来西亚总理涉台表态",
+      "share_url": "www.blog.oyrvj.cn/Article/details/673382.sHtML"
+    },
+{
+      "platform": "查壳工具 Exeinfo PE 0.0.9.9官方版&集成插件绿色单文件汉化版",
+      "share_url": "www.blog.oyrvj.cn/Article/details/532510.sHtML"
+    },
+{
+      "platform": "PopTrans-v1.0.0开源离线截屏翻译软件",
+      "share_url": "www.blog.oyrvj.cn/Article/details/283827.sHtML"
+    },
+{
+      "platform": "转会专家：利物浦中场琼斯即将加盟国际米兰",
+      "share_url": "www.blog.oyrvj.cn/Article/details/038513.sHtML"
+    },
+    {
+      "platform": "第18号台风沙德尔生成",
+      "share_url": "www.blog.oyrvj.cn/Article/details/749368.sHtML"
+    },
+{
+      "platform": "2026 高考部分高职投档线超本科：央视称市场抛弃的不是本科学历，而是与市场脱节的办学模式",
+      "share_url": "www.blog.oyrvj.cn/Article/details/256627.sHtML"
+    },
+{
+      "platform": "如何评价《一人之下》第773(827）话预告？",
+      "share_url": "www.blog.oyrvj.cn/Article/details/188431.sHtML"
+    },
+{
+      "platform": "正泰电器 2026 年半年度归母净利润 31.30 亿元，同比增长 22.23%",
+      "share_url": "www.blog.oyrvj.cn/Article/details/015942.sHtML"
+    },
+{
+      "platform": "2女孩买3张票 无座乘客想坐被拒",
+      "share_url": "www.blog.oyrvj.cn/Article/details/644106.sHtML"
+    },
+{
+      "platform": "985大学开在县城 考进大山了",
+      "share_url": "www.blog.oyrvj.cn/Article/details/964010.sHtML"
+    },
+{
+      "platform": "享界G9自适应上锁实测首曝，各种复杂路况脱困无压力！",
+      "share_url": "www.blog.oyrvj.cn/Article/details/191728.sHtML"
+    },
+{
+      "platform": "2026未来科学大奖揭晓；腾讯微信AI智能体“小微”启动灰度测试；“溟渊计划”二期成果发表",
+      "share_url": "www.blog.oyrvj.cn/Article/details/159206.sHtML"
+    },
+{
+      "platform": "老妈身上的伤口就像“活火山口”，一汪血水混合着脓水",
+      "share_url": "www.blog.oyrvj.cn/Article/details/229398.sHtML"
+    },
+{
+      "platform": "游客称在洪崖洞周边拍照遭商拍驱赶，重庆渝中：对商拍霸占机位“零容忍”",
+      "share_url": "www.blog.oyrvj.cn/Article/details/209281.sHtML"
+    },
+    {
+      "platform": "GitHub Actions 玩法大赏：一台远程主机的七种活法",
+      "share_url": "www.blog.oyrvj.cn/Article/details/649230.sHtML"
+    },
+{
+      "platform": "1岁女童玩蜗牛后患严重脑膜炎",
+      "share_url": "www.blog.oyrvj.cn/Article/details/740672.sHtML"
+    },
+{
+      "platform": "我国首次实现火箭陆地回收",
+      "share_url": "www.blog.oyrvj.cn/Article/details/286144.sHtML"
+    },
+{
+      "platform": "科学家颜宁自评：我勉强算人才，王虹才是天才",
+      "share_url": "www.blog.oyrvj.cn/Article/details/320039.sHtML"
+    },
+{
+      "platform": "全球市场大跳水 原因找到了",
+      "share_url": "www.blog.oyrvj.cn/Article/details/045599.sHtML"
+    },
+{
+      "platform": "8年养育3女儿非亲生案开庭",
+      "share_url": "www.blog.oyrvj.cn/Article/details/986275.sHtML"
+    },
+{
+      "platform": "孙红雷空降刘宇宁直播间",
+      "share_url": "www.blog.oyrvj.cn/Article/details/303802.sHtML"
+    },
+{
+      "platform": "A股回购H股增持，可孚医疗求变",
+      "share_url": "www.blog.oyrvj.cn/Article/details/098123.sHtML"
+    },
+{
+      "platform": "飞牛NAS部署Hermes Agent：RK3566接入DeepSeek、微信与远程控制台",
+      "share_url": "www.blog.oyrvj.cn/Article/details/391370.sHtML"
+    },
+{
+      "platform": "王星案嫌疑人被公诉",
+      "share_url": "www.blog.oyrvj.cn/Article/details/807698.sHtML"
+    },
+    {
+      "platform": "竹知了事件的“罗生门”：华为投诉的是人身攻击，不是非遗玩具",
+      "share_url": "www.blog.oyrvj.cn/Article/details/558851.sHtML"
+    },
+{
+      "platform": "Anthropic求锤得锤！Mythos 2被曝雪藏，Mythos 3正秘密研发",
+      "share_url": "www.blog.oyrvj.cn/Article/details/721469.sHtML"
+    },
+{
+      "platform": "该配合你演出的我视而不见",
+      "share_url": "www.blog.oyrvj.cn/Article/details/299150.sHtML"
+    },
+{
+      "platform": "著名导演怒喷观众：你们都敢去看《牛来》，为什么不敢来看我的电影？我要排片，我要排片！",
+      "share_url": "www.blog.oyrvj.cn/Article/details/636064.sHtML"
+    },
+{
+      "platform": "上海：推动 300 米以下低空公共航路实现移动通信网络全线覆盖",
+      "share_url": "www.blog.oyrvj.cn/Article/details/303294.sHtML"
+    },
+{
+      "platform": "这骄傲又丑萌的小鸡",
+      "share_url": "www.blog.oyrvj.cn/Article/details/362288.sHtML"
+    },
+{
+      "platform": "七夕整点三角洲专属浪漫",
+      "share_url": "www.blog.oyrvj.cn/Article/details/440826.sHtML"
+    },
+{
+      "platform": "陈新武当选重庆市市长",
+      "share_url": "www.blog.oyrvj.cn/Article/details/838335.sHtML"
+    },
+{
+      "platform": "大学生版暴走大事件",
+      "share_url": "www.blog.oyrvj.cn/Article/details/894920.sHtML"
+    },
+{
+      "platform": "1969年、美国演员马修·派瑞出生",
+      "share_url": "www.blog.oyrvj.cn/Article/details/192397.sHtML"
+    },
+    {
+      "platform": "银行“反内卷”，建行一家分行火了：员工午休1.5小时，暂停全部人工柜面服务！业内人士：过去几十年大家不午休，是因为谁都不敢第一个休",
+      "share_url": "www.blog.oyrvj.cn/Article/details/653471.sHtML"
+    },
+{
+      "platform": "古巨基54岁生日全家合照曝光，58岁妻子状态年轻，两个儿子像妈妈",
+      "share_url": "www.blog.oyrvj.cn/Article/details/451011.sHtML"
+    },
+{
+      "platform": "七夕怪谈：对象不够，AI来凑",
+      "share_url": "www.blog.oyrvj.cn/Article/details/964471.sHtML"
+    },
+{
+      "platform": "朱一龙：大家可以叫我强哥",
+      "share_url": "www.blog.oyrvj.cn/Article/details/359548.sHtML"
+    },
+{
+      "platform": "穆里尼奥：祝罗德里一切顺利，当然，也不要顺利过头了",
+      "share_url": "www.blog.oyrvj.cn/Article/details/891863.sHtML"
+    },
+{
+      "platform": "意图刺杀美财长 美一公民获刑6年",
+      "share_url": "www.blog.oyrvj.cn/Article/details/578840.sHtML"
+    },
+{
+      "platform": "苹果向欧盟监管让步",
+      "share_url": "www.blog.oyrvj.cn/Article/details/913698.sHtML"
+    },
+{
+      "platform": "1985年、北回归线标志塔在广州落成",
+      "share_url": "www.blog.oyrvj.cn/Article/details/517953.sHtML"
+    },
+{
+      "platform": "智驾“小蓝灯”不合国标将被禁用，网友：它就是马路闪光弹和软柿子！",
+      "share_url": "www.blog.oyrvj.cn/Article/details/476489.sHtML"
+    },
+{
+      "platform": "三星Galaxy Z8系列深圳上手：AI功能如何改变折叠屏的使用方式",
+      "share_url": "www.blog.oyrvj.cn/Article/details/555928.sHtML"
+    }
+]
+}
+<h2>行业趋势点评</h2><br>
+https://github.com/morganbruce57/idomaxzy/blob/main/20260824drmZ8.json</br>https://github.com/lunarichard43/xetrlgil/blob/main/20260824n0WUS.json</br>https://github.com/beckgloria1036/mcsxtbp/blob/main/20260824IRC6M.json</br>https://github.com/nguyenrichard997/yjjpedge/blob/main/20260824NdzVw.json</br>https://github.com/salazaramanda44/ovwflzxk/blob/main/20260824yyeAW.json</br>
+<hr></hr><hr></hr><br>
+<h2>**AI Builders Digest* | 每日06:00自动播报 | 数据来源：</h2><br>
+https://github.com/boltonkayla7/vdikqgeb/blob/main/20260824tNFG1.json</br>https://github.com/davislisa3/wiqrdj/blob/main/20260824i2Qsh.json</br>https://github.com/arnoldjennifer8/atbvssvg/blob/main/20260824kXe3x.json</br>https://github.com/davislisa3/wiqrdj/blob/main/20260825ABIKy.json</br>https://github.com/galvanjoel7990/tvhnw/blob/main/20260825LgU52.json</br>
+<hr></hr><br>
+<p>*报告生成时间：2026年08月25日04时12分30秒*</p>
+<br>
+<p>*数据来源：新浪财经、公开媒体报道*</p>
